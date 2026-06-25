@@ -105,7 +105,7 @@ O projeto foi desenvolvido com foco em **Programação Orientada a Objetos (POO)
 # 📈 Futuras Melhorias
 
 - Novas fases
-- Chefes (Bosses)
+- Chefes (Boss)
 - Novos inimigos
 - Sistema de vidas
 - Animações dos personagens
