@@ -45,7 +45,6 @@ O projeto foi desenvolvido com foco em **Programação Orientada a Objetos (POO)
 
 ---
 
----
 
 ## Two Players Screen
 
